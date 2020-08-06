@@ -1,0 +1,22 @@
+C:\Programs\Visual Repos\Zombie_Apocalypse_Tomaszek_Piotr\bin\Debug\Zombie_Apocalypse_Tomaszek_Piotr.exe.config
+C:\Programs\Visual Repos\Zombie_Apocalypse_Tomaszek_Piotr\bin\Debug\Zombie_Apocalypse_Tomaszek_Piotr.exe
+C:\Programs\Visual Repos\Zombie_Apocalypse_Tomaszek_Piotr\bin\Debug\Zombie_Apocalypse_Tomaszek_Piotr.pdb
+C:\Programs\Visual Repos\Zombie_Apocalypse_Tomaszek_Piotr\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.Properties.Resources.resources
+C:\Programs\Visual Repos\Zombie_Apocalypse_Tomaszek_Piotr\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.csproj.GenerateResource.cache
+C:\Programs\Visual Repos\Zombie_Apocalypse_Tomaszek_Piotr\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.csproj.CoreCompileInputs.cache
+C:\Programs\Visual Repos\Zombie_Apocalypse_Tomaszek_Piotr\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.exe
+C:\Programs\Visual Repos\Zombie_Apocalypse_Tomaszek_Piotr\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.pdb
+C:\Programs\Visual Repos\Zombie_Apocalypse_Tomaszek_Piotr\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.Form1.resources
+C:\Programs\Visual Repos\Zombie_Apocalypse_Tomaszek_Piotr\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.MainMenu.resources
+C:\Programs\Visual Repos\Zombie_Apocalypse_Tomaszek_Piotr\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.csprojAssemblyReference.cache
+C:\Programs\Visual Repos\Zombie Apocalypse\Zombie_Apocalypse\bin\Debug\Zombie_Apocalypse_Tomaszek_Piotr.exe.config
+C:\Programs\Visual Repos\Zombie Apocalypse\Zombie_Apocalypse\bin\Debug\Zombie_Apocalypse_Tomaszek_Piotr.exe
+C:\Programs\Visual Repos\Zombie Apocalypse\Zombie_Apocalypse\bin\Debug\Zombie_Apocalypse_Tomaszek_Piotr.pdb
+C:\Programs\Visual Repos\Zombie Apocalypse\Zombie_Apocalypse\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.csprojAssemblyReference.cache
+C:\Programs\Visual Repos\Zombie Apocalypse\Zombie_Apocalypse\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.Form1.resources
+C:\Programs\Visual Repos\Zombie Apocalypse\Zombie_Apocalypse\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.MainMenu.resources
+C:\Programs\Visual Repos\Zombie Apocalypse\Zombie_Apocalypse\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.Properties.Resources.resources
+C:\Programs\Visual Repos\Zombie Apocalypse\Zombie_Apocalypse\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.csproj.GenerateResource.cache
+C:\Programs\Visual Repos\Zombie Apocalypse\Zombie_Apocalypse\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.csproj.CoreCompileInputs.cache
+C:\Programs\Visual Repos\Zombie Apocalypse\Zombie_Apocalypse\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.exe
+C:\Programs\Visual Repos\Zombie Apocalypse\Zombie_Apocalypse\obj\Debug\Zombie_Apocalypse_Tomaszek_Piotr.pdb
